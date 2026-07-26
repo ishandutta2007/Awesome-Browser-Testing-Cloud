@@ -23,35 +23,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Browser Testing Cloud)
 
-- **[BrowserStack](https://www.browserstack.com/)**  
-  Leading cloud platform for cross-browser and real-device testing with extensive browser and OS coverage.
-
-- **[Sauce Labs](https://saucelabs.com/)**  
-  Enterprise-grade testing cloud with strong CI/CD integration and analytics.
-
-- **[LambdaTest](https://www.lambdatest.com/)**  
-  Scalable cloud for browser and mobile app testing with AI-powered features.
-
-- **[TestingBot](https://testingbot.com/)**  
-  Cross-browser testing platform with Selenium and Appium support.
-
-- **[CrossBrowserTesting](https://crossbrowsertesting.com/)**  
-  Cloud-based testing service for browsers and real devices (now part of SmartBear).
-
-- **[Kobiton](https://kobiton.com/)**  
-  Real device cloud focused on mobile and browser testing with AI insights.
-
-- **[HeadSpin](https://www.headspin.io/)**  
-  Performance-focused testing platform with global device infrastructure.
-
-- **[Perfecto](https://www.perfecto.io/)**  
-  Continuous testing platform for web and mobile with advanced automation.
-
-- **[BitBar](https://bitbar.com/)**  
-  Device cloud for mobile and web testing with parallel execution.
-
-- **[TestGrid](https://testgrid.io/)**  
-  Cloud testing platform with real devices and browser coverage.
+| Platform | Description | Pricing & Free Tier Limits |
+|----------|-------------|----------------------------|
+| **[BrowserStack](https://www.browserstack.com/)** | Leading cloud platform for cross-browser and real-device testing with extensive browser and OS coverage. | Starts ~$29/mo. Free Trial: 30 mins manual, 60 mins automated. |
+| **[Sauce Labs](https://saucelabs.com/)** | Enterprise-grade testing cloud with strong CI/CD integration and analytics. | Starts ~$39/mo. Free Trial: 28 days / 60 mins. |
+| **[LambdaTest](https://www.lambdatest.com/)** | Scalable cloud for browser and mobile app testing with AI-powered features. | Starts ~$15/mo. Free Tier available with capped time limit. |
+| **[TestingBot](https://testingbot.com/)** | Cross-browser testing platform with Selenium and Appium support. | Starts ~$20/mo. Free Trial: 28 days. Free for Open Source. |
+| **[CrossBrowserTesting](https://crossbrowsertesting.com/)** | Cloud-based testing service for browsers and real devices (now part of SmartBear). | Free Trial: 7 days / 1 hour total. Paid plans required. |
+| **[Kobiton](https://kobiton.com/)** | Real device cloud focused on mobile and browser testing with AI insights. | Free trial available. Custom pricing. |
+| **[HeadSpin](https://www.headspin.io/)** | Performance-focused testing platform with global device infrastructure. | Free trial available. Custom pricing. |
+| **[Perfecto](https://www.perfecto.io/)** | Continuous testing platform for web and mobile with advanced automation. | Free trial available. Enterprise pricing. |
+| **[BitBar](https://bitbar.com/)** | Device cloud for mobile and web testing with parallel execution. | Free trial available. Starts ~$45/mo. |
+| **[TestGrid](https://testgrid.io/)** | Cloud testing platform with real devices and browser coverage. | Free Tier: 200 mins/mo. Starts ~$39/mo. |
 
 ## Open-Source GitHub Projects
 
