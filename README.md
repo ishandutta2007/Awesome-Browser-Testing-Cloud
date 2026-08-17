@@ -23,6 +23,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## 📑 Table of Contents
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
+- [Source-Available GitHub Projects](#source-available-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
@@ -87,6 +88,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - Community **visual regression testing** tools like Percy open alternatives and BackstopJS.
 
 **Frameworks for building custom testing clouds**: Combine **Selenium Grid**, **Playwright**, **Cypress**, and **Browserless** with Docker and Kubernetes for a fully self-hosted browser testing infrastructure.
+
+## 🔓 Source-Available GitHub Projects
+
+- **[Agent QA](https://github.com/vostride/agent-qa)** [![Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social&color=white)](https://github.com/vostride/agent-qa/stargazers) — Natural-language QA for web and mobile apps through a CLI and MCP server. Current releases use FSL-1.1-ALv2 rather than an OSI-approved open-source license and convert to Apache-2.0 two years after publication; the package has no fee, while configured model, browser, or device providers may charge separately.
 
 ## 🤝 How to Contribute
 
