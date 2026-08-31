@@ -23,7 +23,6 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## 📑 Table of Contents
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-- [Source-Available GitHub Projects](#source-available-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
@@ -83,15 +82,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Appium](https://github.com/appium/appium)** [![Stars](https://img.shields.io/github/stars/appium/appium?style=social&color=white)](https://github.com/appium/appium/stargazers) — Cross-platform mobile and browser automation.
 - **[Nightwatch.js](https://github.com/nightwatchjs/nightwatch)** [![Stars](https://img.shields.io/github/stars/nightwatchjs/nightwatch?style=social&color=white)](https://github.com/nightwatchjs/nightwatch/stargazers) — End-to-end testing framework powered by Node.js.
 - **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS)** [![Stars](https://img.shields.io/github/stars/codeceptjs/CodeceptJS?style=social&color=white)](https://github.com/codeceptjs/CodeceptJS/stargazers) — Modern end-to-end testing framework with multi-engine support.
+- **[Agent QA](https://github.com/vostride/agent-qa)** [![Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social&color=white)](https://github.com/vostride/agent-qa/stargazers) — Natural-language web and mobile QA through a CLI and MCP server. **License caveat:** source-available under FSL-1.1-ALv2 rather than an OSI-approved open-source license; each version receives an Apache-2.0 grant after two years. The package has no software fee for permitted use, while configured model, browser, or device providers may charge separately.
 - **[Katalon Studio Open Source** components and community editions.
 - **[Many Dockerized Selenium Grid** and **Playwright** self-hosted solutions.
 - Community **visual regression testing** tools like Percy open alternatives and BackstopJS.
 
 **Frameworks for building custom testing clouds**: Combine **Selenium Grid**, **Playwright**, **Cypress**, and **Browserless** with Docker and Kubernetes for a fully self-hosted browser testing infrastructure.
-
-## 🔓 Source-Available GitHub Projects
-
-- **[Agent QA](https://github.com/vostride/agent-qa)** [![Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social&color=white)](https://github.com/vostride/agent-qa/stargazers) — Natural-language QA for web and mobile apps through a CLI and MCP server. Current releases use FSL-1.1-ALv2 rather than an OSI-approved open-source license and convert to Apache-2.0 two years after publication; the package has no fee, while configured model, browser, or device providers may charge separately.
 
 ## 🤝 How to Contribute
 
